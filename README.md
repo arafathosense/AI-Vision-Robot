@@ -55,7 +55,6 @@ else:
      ADVANCE → Move Forward
 ```
 
-
 ##  Project Structure
 
 ```
